@@ -1,6 +1,6 @@
 American Sign Language Recognition using Convolutional Neural Network using ASL Dataset
 
-This repository houses the official PyTorch implementation of USC's EE 641 (Deep Learning System) final project. All the modules have been well-documented and are self-explanatory. However, for any clarifications regarding the code published here, please feel free to reach out to us at anantapa@usc.edu or veeradhi@usc.edu with the subject line as "EE 541 Project", for consideration.
+This repository houses the official PyTorch implementation of USC's EE 541 (Introduction to Deep Learnign) final project. All the modules have been well-documented and are self-explanatory. However, for any clarifications regarding the code published here, please feel free to reach out to us at anantapa@usc.edu or veeradhi@usc.edu with the subject line as "EE 541 Project", for consideration.
 
 Abstract : - 
 ASL is a language used by the deaf and hard-of-hearing communities based on visual gestures. Recognizing ASL signs is difficult due to their complex and variable nature. However, CNNs have been trained on large datasets of annotated ASL images to accurately recognize signs. These
